@@ -16,7 +16,7 @@ Veri Kaynağı: Bank Customer Churn Dataset (10,000 Müşteri)
 🔍 İş Soruları, SQL Kodları, Sonuçlar ve Yorumlar
 Proje kapsamında yanıt aradığımız 5 kritik iş sorusu, çalıştırdığımız SQL sorguları, elde edilen sayısal sonuçlar ve bu sonuçların derinlemesine yorumları aşağıdadır:
 
-1. Genel Müşteri Terk Oranı (Churn Rate) Nedir?![Uploading Gemini_Generated_Image_h045s4h045s4h045.jpg…]()
+1. Genel Müşteri Terk Oranı (Churn Rate) Nedir?
 
 Sonuçlar: Toplam Müşteri: 10,000 | Kayıp Müşteri: 2,037 | Churn Oranı: %20.37
 
