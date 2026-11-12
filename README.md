@@ -3,6 +3,8 @@ Bu proje, bankacılık sektöründe müşteri terk oranlarını (Churn) azaltmak
 
 
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h045s4h045s4h045" src="https://github.com/user-attachments/assets/4bf88388-b789-4c4e-80ce-9fbc59907f26" />
+
 
 📋 Proje Mimarisi ve Kullanılan Araçlar
 Veritabanı & Analiz: MS SQL Server (SSMS), T-SQL (VIEW, CASE WHEN, GROUP BY, CAST, ROUND)
@@ -14,7 +16,8 @@ Veri Kaynağı: Bank Customer Churn Dataset (10,000 Müşteri)
 🔍 İş Soruları, SQL Kodları, Sonuçlar ve Yorumlar
 Proje kapsamında yanıt aradığımız 5 kritik iş sorusu, çalıştırdığımız SQL sorguları, elde edilen sayısal sonuçlar ve bu sonuçların derinlemesine yorumları aşağıdadır:
 
-1. Genel Müşteri Terk Oranı (Churn Rate) Nedir?
+1. Genel Müşteri Terk Oranı (Churn Rate) Nedir?![Uploading Gemini_Generated_Image_h045s4h045s4h045.jpg…]()
+
 Sonuçlar: Toplam Müşteri: 10,000 | Kayıp Müşteri: 2,037 | Churn Oranı: %20.37
 
 Yorum ve Karşılaştırma: Bankanın genel müşteri kaybı oranı %20.37 seviyesindedir. Her 5 müşteriden 1'inin bankayı terk etmesi, müşteri sadakati ve elde tutma (retention) stratejilerinin acilen gözden geçirilmesi gerektiğini göstermektedir.
