@@ -1,6 +1,9 @@
 🏦 Bank Customer Churn & Risk Analitiği Projesi
 Bu proje, bankacılık sektöründe müşteri terk oranlarını (Churn) azaltmak, riskli müşteri segmentlerini tespit etmek ve veri odaklı stratejik kararlar almak amacıyla SQL Server ve Power BI kullanılarak uçtan uca geliştirilmiştir.
 
+
+
+
 📋 Proje Mimarisi ve Kullanılan Araçlar
 Veritabanı & Analiz: MS SQL Server (SSMS), T-SQL (VIEW, CASE WHEN, GROUP BY, CAST, ROUND)
 
